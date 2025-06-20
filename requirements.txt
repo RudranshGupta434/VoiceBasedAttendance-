@@ -1,0 +1,3 @@
+SpeechRecognition
+word2number
+pyaudio
